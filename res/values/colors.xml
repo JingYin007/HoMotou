@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey"> #ebebeb</color>
+    <color name="black"> #000000</color>
+    <color name="darkgrey">#C0C0C0</color>
+    <color name="white"> #FFFFFF</color>
+    <color name="red"> #FF0000</color>
+    <color name="darkyellow"> #FFCC33</color> 
+    <color name="Lavender"> #E6E6FA</color> 
+ 	<color name="AntiqueWhite"> #FAEBD7</color> 
+ 	<color name="softGreen"> #7fb80e</color> 
+ 	<color name="darkGreen"> #008000</color>
+ 	
+  	<color name="pink">#FFFF1493</color> 
+  	<color name="themecolor">#00b7ee</color> 
+    <color name="lightPink">#FFF8DC</color>
+    <color name="lightBlue">#00EEEE</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="top_themeColor">#d3d7d4</color>
+    <color name="dark_hese">#6b2c25</color>
+    <color name="dark_nongshu">#3c3645</color>
+    <color name="qingZi">#6950a1</color>
+    <color name="tieYu">#293047</color>
+</resources>

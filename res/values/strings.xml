@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ho</string>
+    <string name="hello">Hello</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="timeDemo">12-12 12:12:12</string>
+    <string name="top_motou">逗货的世界.</string>
+</resources>

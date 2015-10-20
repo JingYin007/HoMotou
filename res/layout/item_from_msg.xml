@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/id_form_msg_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/timeDemo"
+        android:textColor="@color/darkGreen"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:layout_weight="2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+
+            <ImageView
+                android:layout_width="49dp"
+                android:layout_height="49dp"
+                android:src="@drawable/sgc" />
+
+        <TextView
+            android:id="@+id/id_from_msg_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/chatfrom_bg_normal"
+            android:gravity="center_vertical"
+            android:textSize="17sp"
+            android:textColor="@color/dark_hese"
+            android:text="@string/hello" />
+    </LinearLayout>
+
+</LinearLayout>
